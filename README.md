@@ -1,5 +1,4 @@
 ![Screenshot](DataScienceLifeCycle.png) 
-# IOT Data
 
 
 # Research
@@ -16,7 +15,7 @@ Water End-Use Classification with Contemporaneous Water-Energy Data and Deep Lea
 
 Unsupervised disaggregation of appliances using aggregated consumption data: https://pdfs.semanticscholar.org/5531/e05c2c76b150473c218a749bd83372d691e5.pdf
 
-# Datasets
+# IOT Datasets
 AMPd: https://www.nature.com/articles/sdata201637#ref24
 
 
